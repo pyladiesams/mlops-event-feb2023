@@ -28,7 +28,7 @@ You may have heard about federated learning, and are curious how to offer users 
 The presentation can be find [here TBA](link). 
 
 ## Video record
-YouTube videos will be uploaded [here TBA](link)
+Re-watch [these talks on our YouTube channel TBA](link)
 
 ## Credits
 This event was set up by @pyladiesams
