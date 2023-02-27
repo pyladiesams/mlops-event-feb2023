@@ -27,8 +27,5 @@ You may have heard about federated learning, and are curious how to offer users 
 
 The presentation can be find [here](presentations/Distributed_Machine_Learning_by_K.Jarmul.pdf). 
 
-## Video record
-Re-watch [these talks on our YouTube channel TBA](link)
-
 ## Credits
 This event was set up by @pyladiesams
