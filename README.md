@@ -25,7 +25,7 @@ You may have heard about federated learning, and are curious how to offer users 
 
 [Katharine Jarmul](https://de.linkedin.com/in/katharinejarmul) is a privacy activist and data scientist whose work and research focuses on privacy and security in data science workflows. She works as a Principal Data Scientist at Thoughtworks and has held numerous leadership and independent contributor roles at large companies and startups in the US and Germany -- implementing data processing and machine learning systems with privacy and security built in and developing forward-looking, privacy-first data strategy. She is a passionate and internationally recognized data scientist, programmer, and lecturer and one of the founders of **PyLadies**.
 
-The presentation can be find [here TBA](link). 
+The presentation can be find [here](presentations/Distributed_Machine_Learning_by_K.Jarmul.pdf). 
 
 ## Video record
 Re-watch [these talks on our YouTube channel TBA](link)
