@@ -9,7 +9,7 @@ We are going to walk through the evolution of data and ML infrastructure, taking
 
 [Olivia Stoicescu](https://www.linkedin.com/in/oliviastoicescu/) is a software engineer with 10+ years experience in building data-driven systems, managing MLOps teams and a life-long learner of all things data, ML and Ops.
 
-The presentation can be find [here TBA](presentations/Mature_MLPlatform_by_O.Stoicescu.pdf). 
+The presentation can be find [here](presentations/Mature_MLPlatform_by_O.Stoicescu.pdf). 
 
 ### Talk 2 - MLOps: why and how to build end-to-end product teams by Daniel Willemsen
 
