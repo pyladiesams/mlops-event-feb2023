@@ -17,7 +17,7 @@ Getting machine learning systems to run in production at a large company is hard
 
 [Daniel Willemsen](https://nl.linkedin.com/in/dani%C3%ABl-willemsen-baa963a9) is a machine learning engineer at GoDataDriven, now called Xebia, particularly interested in getting machine learning models from problem to solution in production
 
-The presentation can be find [here TBA](link). 
+The presentation can be find [here](presentations/MLOps_End_To_End_Teams_by_D.Willemsen.pdf). 
 
 ### Talk 3 - Distributed Learning Opportunities and Challenges by Katharine Jarmul
 
